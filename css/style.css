@@ -1,0 +1,11 @@
+.d-flex{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+img{
+    width: 50%;
+}
